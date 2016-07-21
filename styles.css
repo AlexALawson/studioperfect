@@ -1,0 +1,68 @@
+html, 
+body {
+	height: 100%;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+img {
+	max-width: 100%;
+}
+
+p {
+	font-family: 'Playfair Display', serif;
+}
+ 
+#cover {
+	background: #222 url("https://images.unsplash.com/photo-1437419764061-2473afe69fc2?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=76fba3bdb1e04cb26a02000be2fe7740") no-repeat;
+	background-size: cover;
+	color: white;
+	height: 100%;
+	width: 100%;
+	text-align: center;
+	display: flex;
+	align-items: center;
+}
+
+#cover-caption {
+	width: 100%;
+	text-shadow: 2px 2px grey;
+}
+
+.header-des {
+	text-shadow: 2px 2px grey;
+}
+
+.carousel {
+	width: 90%;
+	margin: 0 auto;
+	margin-top: 30px;
+}
+
+#what-we-do {
+	text-align: center;
+}
+
+#cardcontainer {
+	margin-top: 40px; 
+}
+
+.section-content {
+	padding: 5rem 0 ;
+}
+
+#about {
+	background: url("images/laptop.jpg");
+	background-size: cover;
+}
+
+.about-text {
+	background: rgba(0,0,0,0.8);
+	padding: 1.875rem;
+	color: white;
+	width: 50%;
+}
+
+.lead {
+
+	font-family: 'Josefin Sans', sans-serif;
+}
